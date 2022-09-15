@@ -1,0 +1,35 @@
+.card{
+    width: auto;
+    height: auto;
+    background-color: burlywood;
+    display: flex;
+    flex-direction:column;
+    margin: 2vw;
+    border-radius: 10px;
+
+}
+
+.button{
+    background-color: whitesmoke;
+}
+
+.div{
+    width: 40vw;
+    height: 30vw;
+    
+}
+
+.imagen{
+    width: 40vw;
+    height: 30vw;
+    margin: 5vw auto;
+    border-radius: 10px;
+}
+
+.nombre{
+text-align: center;
+}
+
+.precio{
+text-align: center;
+}
